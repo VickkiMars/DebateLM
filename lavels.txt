@@ -1,0 +1,14 @@
+exp:
+
+VBox(main layout)
+|
+ ----VBox2(label layout)
+        |   
+        ---.addWidget(label widget(text))
+
+Widget(label widget)
+|
+ ----VBox3(layout)
+        |
+        ---.addWidget(QLabel)
+

@@ -5,13 +5,6 @@ This project explores multiple iterations of a chat interface with the aim to ac
 
 ## 📂 File Overview
 
-### 🧪 `test_chat_area.py`
-- **Purpose:** A test runner script to validate the chat area logic.
-- **Usage:** Good for quick verification of layout or LLM integration.
-- **Run with:**  
-  ```bash
-  python test_chat_area.py
-  ```
 ### 🖥️ `app_main.py`
 - **Purpose:** Main PyQt application that integrates UI and LLM logic.
 - **Features:** Full working demo of the debate/chat interface.
